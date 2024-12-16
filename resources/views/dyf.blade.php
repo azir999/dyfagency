@@ -12,7 +12,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 
         <!-- Favicon Box Icon -->
-        <link rel="icon" href="https://ibb.co.com/vxcvQy5" type="image/x-icon">
+        <link rel="icon" href="https://i.postimg.cc/YqTryd8j/icon.png" type="image/x-icon">
 
     </head>
 
@@ -38,7 +38,7 @@
     </nav>
 
     <!-- Background Section -->
-    <div class="bg-dark text-white text-center py-5" style="background-image: url('https://ibb.co.com/L94f49n'); background-size: cover; background-position: center;">
+    <div class="bg-dark text-white text-center py-5" style="background-image: url('https://i.postimg.cc/g2Rz93Bs/background.jpg'); background-size: cover; background-position: center;">
         <h1 class="fw-bold display-4 p-4 d-inline-block rounded">Selamat Datang di D.Y.F AGENCY</h1>
     </div>
 
@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="https://ibb.co.com/B3mvTS3" class="img-fluid rounded shadow" alt="Tentang Kami">
+                    <img src="https://i.postimg.cc/zv6r6fC4/tentang.jpg" class="img-fluid rounded shadow" alt="Tentang Kami">
                 </div>
                 <div class="col-md-6">
                     <h2 class="text-primary fw-bold mb-3">Tentang Kami</h2>
@@ -149,7 +149,7 @@
 <section id="owner" class="py-5 bg-light">
     <h2 class="text-2xl font-bold text-primary text-center mb-4">Pemilik D.Y.F AGENCY</h2>
     <div class="text-center">
-        <img src="https://ibb.co.com/qscTtpC" alt="Foto Pemilik" class="rounded-circle shadow-lg mb-4" style="width: 150px; height: 150px; object-fit: cover;">
+        <img src="https://i.postimg.cc/xj4nc6wg/pemilik.jpg" alt="Foto Pemilik" class="rounded-circle shadow-lg mb-4" style="width: 150px; height: 150px; object-fit: cover;">
         <h3 class="h4 font-weight-semibold text-dark">dita yhohana febrianti</h3>
         <p class="text-muted">Pendiri & Pengelola D.Y.F Agency</p>
     </div>
