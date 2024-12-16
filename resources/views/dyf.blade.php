@@ -12,7 +12,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 
         <!-- Favicon Box Icon -->
-        <link rel="icon" href="https://i.postimg.cc/YqTryd8j/icon.png" type="image/x-icon">
+        <link rel="icon" href="public/img/icon.png" type="image/x-icon">
 
     </head>
 
