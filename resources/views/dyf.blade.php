@@ -38,7 +38,7 @@
     </nav>
 
     <!-- Background Section -->
-    <div class="bg-dark text-white text-center py-5" style="background-image: url('background.png'); background-size: cover; background-position: center;">
+    <div class="bg-dark text-white text-center py-5" style="background-image: url('https://i.ibb.co.com/zVKxmyV/background.jpg'); background-size: cover; background-position: center;">
         <h1 class="fw-bold display-4 p-4 d-inline-block rounded">Selamat Datang di D.Y.F AGENCY</h1>
     </div>
 
@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="{{ asset('img/tentang.png') }}" class="img-fluid rounded shadow" alt="Tentang Kami">
+                    <img src="https://i.ibb.co.com/GxFjWH8/tentang.jpg" class="img-fluid rounded shadow" alt="Tentang Kami">
                 </div>
                 <div class="col-md-6">
                     <h2 class="text-primary fw-bold mb-3">Tentang Kami</h2>
