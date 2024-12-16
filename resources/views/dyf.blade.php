@@ -38,7 +38,7 @@
     </nav>
 
     <!-- Background Section -->
-    <div class="bg-dark text-white text-center py-5" style="background-image: url('img/background.png'); background-size: cover; background-position: center;">
+    <div class="bg-dark text-white text-center py-5" style="background-image: url('public/img/background.png'); background-size: cover; background-position: center;" type="image">
         <h1 class="fw-bold display-4 p-4 d-inline-block rounded">Selamat Datang di D.Y.F AGENCY</h1>
     </div>
 
