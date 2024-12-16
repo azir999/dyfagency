@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="img/tentang.png" class="img-fluid rounded shadow" alt="Tentang Kami">
+                    <img src="img/tentang.png" class="img-fluid rounded shadow" alt="Tentang Kami" rel="img"  type="image">
                 </div>
                 <div class="col-md-6">
                     <h2 class="text-primary fw-bold mb-3">Tentang Kami</h2>
