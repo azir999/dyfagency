@@ -149,7 +149,7 @@
 <section id="owner" class="py-5 bg-light">
     <h2 class="text-2xl font-bold text-primary text-center mb-4">Pemilik D.Y.F AGENCY</h2>
     <div class="text-center">
-        <img src="{{ asset('img/pemilik.png') }}" alt="Foto Pemilik" class="rounded-circle shadow-lg mb-4" style="width: 150px; height: 150px; object-fit: cover;">
+        <img src="https://i.ibb.co.com/4wqD7r3/pemilik.jpg" alt="Foto Pemilik" class="rounded-circle shadow-lg mb-4" style="width: 150px; height: 150px; object-fit: cover;">
         <h3 class="h4 font-weight-semibold text-dark">dita yhohana febrianti</h3>
         <p class="text-muted">Pendiri & Pengelola D.Y.F Agency</p>
     </div>
